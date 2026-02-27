@@ -1,0 +1,17 @@
+Record ID,Region,Clean Region,Closing Period,Clean Date,Revenue (reported),Clean Revenue,Expense (reported),Clean Expense,Ops Notes,Category,Variance,Controller Comments
+RC-00033,Europe,Europe,2023-12-07,2023-12-07," $97,143.00 USD ",97143.00," $56,103.00 ",56103.00,Support|Routing|2023-04,Support,41040.00,Cross-check with warehouse logs;
+RC-00048, E.U. ,Europe, 27/07/2024 ,2024-07-27,"USD 22,293.00 ",22293.00,"USD 10,957.00",10957.00,Support|Automation|2024-03,Support,11336.00,Cross-check with warehouse logs;
+RC-00116,Europe,Europe, 2023 Q1 ,2023-03-31," $41,353.00 USD ",41353.00," $17,950.00 USD ",17950.00,Support|Automation|2023-01,Support,23403.00,Pending vendor accrual confirmation;
+RC-00141,Europe,Europe,2023 Q2,2023-06-30," USD 53,093.00 ",53093.00," $29,348.00 USD ",29348.00,Support|Warehouse|2023-02,Support,23745.00,Adjust for FX in final submission;
+RC-00156,Europe,Europe, 20/02/2024,2024-02-20," $59,125.00 USD ",59125.00,"USD 30,920.00 ",30920.00,Support|Automation|2024-01,Support,28205.00,Flagged for automation audit;
+RC-00171,E.U. ,Europe, 13/01/2024,2024-01-13," $97,374.00 ",97374.00,USD TBD,36028.38,Support|Ops Control|2024-01,Support,61345.62,Include in true-up journal;
+RC-00201,Europe,Europe, Aug 19, 2023 ,2023-08-19," USD 63,957.00 ",63957.00," USD 44,234.00",44234.00,Support|Payments|2023-03,Support,19723.00,Pending vendor accrual confirmation;
+RC-00303, Europe ,Europe, 2023-08-29,2023-08-29," $85,582.00 USD ",85582.00,"$57,660.00 USD ",57660.00,Support|Customer Care|2023-03,Support,27922.00,Adjust for FX in final submission;
+RC-00329, Europe,Europe,15/03/2023 ,2023-03-15," $60,678.00 USD ",60678.00,"$30,035.00 USD",30035.00,Support|Warehouse|2023-01,Support,30643.00,Adjust for FX in final submission;
+RC-00362, Europe Region ,Europe, 2023-07-10,2023-07-10," $19,008.00 USD ",19008.00,USD 12,674.00,12674.00,Support|Partner Success|2023-03,Support,6334.00,Reviewed via reconciliation workbook;
+RC-00431, Europe Region ,Europe, Feb 28, 2023,2023-02-28," $26,688.00 USD ",26688.00," $12,065.00 USD",12065.00,Support|Ops Control|2023-01,Support,14623.00,Adjust for FX in final submission;
+RC-00466, Europe ,Europe, 2023-01-09 ,2023-01-09," USD 59,314.00 ",59314.00,"$27,520.00 USD ",27520.00,Support|Warehouse|2023-01,Support,31794.00,Validated by controller team;
+RC-00526, E.U. ,Europe,2024 Q1 ,2024-03-31, USD 74,931.00,74931.00,USD TBD,27724.47,Support|Routing|2024-01,Support,47206.53,Cross-check with warehouse logs;
+RC-00541, Europe,Europe, 02/06/2024 ,2024-06-02," $95,958.00 USD ",95958.00,$55,970.00,55970.00,Support|Routing|2024-02,Support,39988.00,Reviewed via reconciliation workbook;
+RC-00582, EU,Europe,07/05/2023,2023-05-07," USD 36,499.00 ",36499.00,"$17,960.00 ",17960.00,Support|Customer Care|2023-02,Support,18539.00,Pending vendor accrual confirmation;
+RC-00591, Europe Region ,Europe, 2023 Q4 ,2023-12-31," $59,982.00 USD ",59982.00," USD 29,891.00 ",29891.00,Support|Routing|2023-04,Support,30091.00,Cross-check with warehouse logs;
